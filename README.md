@@ -2,8 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
-## Development server
+## About
+ProgrammersWorld is an **open source project** that is intended to help programmers all around the world. Feel free to contribute to the repository.
 
+## Main Objectives
+1. By providing tutorials to different programming languages.
+2. By providing practice projects to different programming languages.
+3. By proividing job opportunities for programmers.
+4. and in summary, anything related to programming and programmers can be added here.
+
+## Development server
 Run `npm start` for a dev server (shortcut for `ng serve --open`) and wait for the compilation to finish, then the browser will open automatically. 
 
 ## Requirements
@@ -20,7 +28,6 @@ Run `npm start` for a dev server (shortcut for `ng serve --open`) and wait for t
 3. [FontAwesome](https://fontawesome.com)
 
 ## Things to use for consistency
-
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
