@@ -8,7 +8,7 @@ ProgrammersWorld is an **open source project** that is intended to help programm
 ## Main Objectives
 1. By providing tutorials to different programming languages.
 2. By providing practice projects to different programming languages.
-3. By proividing job opportunities for programmers.
+3. By providing job opportunities for programmers.
 4. and in summary, anything related to programming and programmers can be added here.
 
 ## Development server
